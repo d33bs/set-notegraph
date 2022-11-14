@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # Enables on-demand/manual triggering
   push:
     branches:
-    - main
+    - pages-test
 
 jobs:
   build:

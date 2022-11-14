@@ -75,7 +75,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     assetsPrefix: /set-notegraph
-    siteUrl: https://CU-DBMI.github.io
+    siteUrl: https://d33bs.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
